@@ -1,0 +1,4 @@
+.firecrawl/
+.DS_Store
+.qa/
+node_modules/
